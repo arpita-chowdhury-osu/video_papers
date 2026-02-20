@@ -16,4 +16,9 @@
 |[Privacy Beyond Pixels: Latent Anonymization for Privacy-Preserving Video Understanding](http://arxiv.org/pdf/2511.08666)||privacy, fm Adaptation|
 |[DeAltHDR: Learning HDR Video Reconstruction from Degraded Alternating Exposure Sequences](https://openreview.net/forum?id=buzIPnGxA8)|Aim to make HDR video reconstruction work reliably in real-world conditions where input frames are noisy, blurry, and captured with alternating exposures.|HDR video|
 |[PPLLaVA: Varied Video Sequence Understanding With Prompt Guidance](https://arxiv.org/pdf/2411.02327)||Efficiency,RL, Understanding, Long-Video|
-|[Video Scene Segmentation with Genre and Duration Signals]()|||
+|[Video Scene Segmentation with Genre and Duration Signals](https://openreview.net/forum?id=c8r3lzyVTS)||Clip Segmentation|
+|[Streaming Drag-Oriented Interactive Video Manipulation: Drag Anything, Anytime!](https://arxiv.org/pdf/2510.03550)||Controlled Generation|
+|[Anchor Frame Bridging for Coherent First-Last Frame Video Generation](https://openreview.net/pdf?id=isNjWnVsUR)|Given first and last frame, generate better intermediate frames|Video Frame Interpolation|
+|[UrbanVerse: Scaling Urban Simulation by Watching City-Tour Videos](https://arxiv.org/pdf/2510.15018)|They build a real-to-simulation system that turns city-tour videos into realistic urban simulators for scalable robot navigation training.|physics-grounded scene construction|
+|[ViPRA: Video Prediction for Robot Actions]|(https://arxiv.org/pdf/2511.07732)||
+|[MIMIC: Mask-Injected Manipulation Video Generation with Interaction Control](https://openreview.net/forum?id=COrUdVuInH)|||
